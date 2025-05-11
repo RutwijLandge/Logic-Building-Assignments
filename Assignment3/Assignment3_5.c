@@ -21,20 +21,20 @@ int main()
     char cValue = '\0';
     BOOL bRet = FALSE;
 
-    printf("Enter Character");
+    printf("Enter Character\n");
     scanf("%c",&cValue);
 
     bRet = ChkVowel(cValue);
 
     if(bRet == TRUE)
     {
-        printf("it is a vowel");
+        printf("it is a vowel\n");
 
     }
 
     else
     {
-        printf("It is not Vowel");
+        printf("It is not Vowel\n");
     }
 
     return 0;
