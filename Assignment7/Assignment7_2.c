@@ -19,4 +19,5 @@ int main()
     iRet = DollarToINR(iValue);
 
     printf("Value in INR is %d  \n",iRet);
+    return 0;
 }
