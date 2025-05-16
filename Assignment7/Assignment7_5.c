@@ -38,4 +38,5 @@ int main()
     iRet = Factorialdiff(iValue);
 
     printf("Difference of Factoial number is %d  \n",iRet);
+    return 0;
 }
