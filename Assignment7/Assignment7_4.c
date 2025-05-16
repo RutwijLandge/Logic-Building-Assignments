@@ -31,4 +31,5 @@ int main()
     iRet = OddFactorial(iValue);
 
     printf("Odd Factoial of number is %d  \n",iRet);
+    return 0;
 }
