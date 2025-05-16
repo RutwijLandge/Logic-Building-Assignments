@@ -31,4 +31,5 @@ int main()
     iRet = EvenFactorial(iValue);
 
     printf("Even Factoial of number is %d  \n",iRet);
+    return 0;
 }
